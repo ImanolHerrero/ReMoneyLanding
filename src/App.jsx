@@ -1,5 +1,5 @@
 import "./index.css";
-import Hero from "./components/hero";
+import Hero from "./components/Hero";
 import Ecommerce from "./components/Ecommerce";
 import Reintegros from "./components/Reintegros";
 
